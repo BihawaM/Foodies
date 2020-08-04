@@ -1,0 +1,24 @@
+body {
+    background-image: url("images/ice\ cream.jpeg");
+    background-repeat: no-repeat;
+    mix-blend-mode: hard-light;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background-size: cover;
+    text-align: center;
+    font-size: 27px;
+    position: absolute;
+    width: 754px;
+    height: 691px;
+    left: 0px;
+    top: 0px;
+    border-radius: 27px;
+}
+
+button {
+    position: absolute;
+    width: 191px;
+    height: 51px;
+    background: #293F75;
+    border-radius: 7px;
+}
